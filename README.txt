@@ -1,0 +1,1 @@
+Scala is a programing language. It enforces immutable state, pure functions and consistent types.
