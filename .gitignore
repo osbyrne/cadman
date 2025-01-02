@@ -1,6 +1,7 @@
 *
 
 !*.scala
+!*.sbt
 !*.nix
 !.json
 !*.yml

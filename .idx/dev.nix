@@ -9,6 +9,7 @@
   pkgs.scala_3
   pkgs.metals
   pkgs.scalafmt
+  pkgs.sbt
  ];
 
   # Sets environment variables in the workspace
