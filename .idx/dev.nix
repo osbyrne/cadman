@@ -20,6 +20,8 @@
      "scalameta.metals"
      "pouya.procolors"
      "scala-lang.scala"
+     "mtsmfm.vscode-stl-viewer"
+     "slevesque.vscode-3dviewer"
     ];
 
     # Enable previews
