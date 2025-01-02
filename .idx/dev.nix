@@ -6,10 +6,10 @@
 
   # Use https://search.nixos.org/packages to find packages
   packages = [
-  
- pkgs.scala_3
- pkgs.metals
- pkgs.scalafmt];
+  pkgs.scala_3
+  pkgs.metals
+  pkgs.scalafmt
+ ];
 
   # Sets environment variables in the workspace
   env = {};
@@ -17,6 +17,8 @@
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
      "scalameta.metals"
+     "pouya.procolors"
+     "scala-lang.scala"
     ];
 
     # Enable previews
