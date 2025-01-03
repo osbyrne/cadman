@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!*.scala
+!*.md
+!*.sbt
+!*.txt
+!*.stl
+!*.conf
+!*.properties
+!*.json
+!*.yml
+
+# Allow directories to be tracked
+!*/
