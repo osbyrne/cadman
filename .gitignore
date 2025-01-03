@@ -12,6 +12,7 @@
 !*.properties
 !*.json
 !*.yml
+!*.nix
 
 # Allow directories to be tracked
 !*/
