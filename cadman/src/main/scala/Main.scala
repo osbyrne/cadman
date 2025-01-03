@@ -53,5 +53,3 @@ object Main {
     Files.write(path, content.getBytes(StandardCharsets.UTF_8))
   }
 }
-
-// some minor modification
