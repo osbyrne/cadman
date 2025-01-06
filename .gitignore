@@ -1,7 +1,10 @@
 # Ignore everything
 *
 
-# Except these files
+# Track directories
+!*/
+
+# Track these files
 !.gitignore
 !*.scala
 !*.md
@@ -13,6 +16,3 @@
 !*.json
 !*.yml
 !*.nix
-
-# Allow directories to be tracked
-!*/
