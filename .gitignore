@@ -1,6 +1,9 @@
 # Ignore everything
 *
 
+# Ignore especially .metals
+*/.metals
+
 # Track directories
 !*/
 
